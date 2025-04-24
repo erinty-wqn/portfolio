@@ -192,7 +192,7 @@ article {
 
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
-article { display: none; }
+/*article { display: none; }*/
 
 article.active {
   display: block;
